@@ -2,15 +2,15 @@
 
 Usefull links to keep studying. Feel free to fork and contribute.
 
-# General
+## General
 
-## 1 - Developer Roadmap
+### 1 - Developer Roadmap
 [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) A visual guide of where do I need to go...
 
-## training
+### training
 - **HackerRank**: Plataforma para resolver problemas com algoritmos em sua linguagem favorita. Curto bastante este site pois as vezes nos esquecemos de estudar algoritmos e já partimos direto para a linguagem e sua sintaxe. Após aprender o básico de JS, acredito que é uma boa pedida criar uma conta nesse site e começar a praticar algoritmos nele.
 
-## Courses Plataforms
+### Courses Plataforms
 
 - [Lynda](https://www.lynda.com/)
 - [teamtreehouse Tech degree](https://teamtreehouse.com/techdegree)
