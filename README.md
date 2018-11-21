@@ -15,6 +15,16 @@ Usefull links to keep studying. Feel free to fork and contribute.
 - [Lynda](https://www.lynda.com/)
 - [teamtreehouse Tech degree](https://teamtreehouse.com/techdegree)
 
+*FREE - english and français*
+[open classroom](https://openclassrooms.com/en/courses)
+
+*Español*
+[codigo facilito](https://codigofacilito.com)
+
+*Português*
+cursos gratuitos:
+- [app cursos de graça](https://appcursosdegraca.com.br/categoria/tecnologia-da-informacao)
+
 ***
 
 ## Vim
@@ -80,6 +90,19 @@ Leitura desses materiais para conseguir aprender bem o JavaScript:
 - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 - [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
 - [Maujor](https://www.maujor.com/tutorial/intrtut.php)
+
+
+#### ReactJS
+*Português*
+Leitura:
+- [devinfo](http://devinfoplus.blogspot.com/2018/08/introducao-ao-react.html?m=1)
+
+Curso grátis:
+- [introdução ReactJS](https://www.youtube.com/watch?v=y08X0vpd6q4)
+
+*español*
+Cursos gratuitos
+- [Codigofacito](https://codigofacilito.com/cursos/curso-gratis-de-react)
 
 ***
 
