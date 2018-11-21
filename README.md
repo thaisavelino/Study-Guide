@@ -21,7 +21,7 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 ### Books
 
-**Português**
+*Português*
 - [livro Vim para noobs](https://github.com/woliveiras/vimparanoobs)
 
 
@@ -35,34 +35,34 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 ### Career Guide
 
-**Português e English**
+*Português e English*
 - [Carreira de Frontend - Frontend Career](https://github.com/woliveiras/front-end-career)
 
 
 ### Mentoria
 
-**Português**
+*Português*
 - [mentoria training center](https://github.com/training-center/mentoria)
 
 
 ### Paid Courses / Cursos pagos
 
-**English**
+*English*
 - JavaScript: Undestanding the Weird Parts - Udemy - Um dos melhores cursos que já fiz na Udemy, o professor explica o JS a fundo e mostra detalhes que as vezes fazem total diferença no dia-a-dia do desenvolvedor.  
 - [egghead](https://egghead.io/) course made by specialists lots of tools and frameworks.
 
-**Português**
+*Português*
 - [JS com TDD na pratica](https://www.udemy.com/join/login-popup/?next=/js-com-tdd-na-pratica/learn/v4/)
 - [Curso completo de Desenvolvimento Web - Crie 6 projetos](https://www.udemy.com/curso-completo-do-desenvolvedor-web/) Para iniciantes
 - [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/?couponCode=12062018)
 
 ### Free Courses / Cursos gratuitos
 
-**English**
+*English*
 - [Javascript30](https://javascript30.com/) do [Wes bos](https://wesbos.com/) 30 lesson in 30 days - Vanila JS. Good one!
 - [Free code camp](https://learn.freecodecamp.org/) A huge content for free: Responsive WebDesign; Javascript Algorithms And Data Structures; Front End Libraries; Data Visualization; Apis And Microservices; Information Security And Quality Assurance; and *Coding Interview Prep* (Thousands of hours of challenges).
 
-**Português**
+*Português*
 - [origamid](https://www.origamid.com/) Vale a pena, mas é basico.
 - [Desvendando JS - Rodrigo Branas](https://www.youtube.com/watch?v=093dIOCNeIc)
 - Joao ribeiro - [HTML e CSS](https://www.youtube.com/watch?v=-QfBuXJA6p8&list=PLXik_5Br-zO8xs9cnO4gOQs56bAUuzFBc)
@@ -71,7 +71,7 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 #### Reading | Leitura
 
-**Português**
+*Português*
 Leitura desses materiais para conseguir aprender bem o JavaScript:
 - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/)
 - [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
@@ -81,6 +81,6 @@ Leitura desses materiais para conseguir aprender bem o JavaScript:
 
 # PHP
 
-**Português**
+*Português*
 - Joao Ribeiro - [PHP iniciante ao avançado](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA)
 
