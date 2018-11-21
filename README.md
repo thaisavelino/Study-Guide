@@ -69,7 +69,7 @@ Usefull links to keep studying. Feel free to fork and contribute.
 - [Bootstrap com Steroids](https://www.youtube.com/watch?v=TrHpFyEZISY)
 
 
-#### Reading | Leitura
+### Reading | Leitura
 
 *Português*
 Leitura desses materiais para conseguir aprender bem o JavaScript:
