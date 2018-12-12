@@ -12,18 +12,29 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 ### Courses Plataforms
 
-- [Lynda](https://www.lynda.com/)
-- [teamtreehouse Tech degree](https://teamtreehouse.com/techdegree)
+* Free - In English
+Benefits and courses for free if you have GitHub Student account.
+- http://go.lambdaschool.com/
+- https://flatironschool.com/
+
+Computer Science Major and Data Science Major for free.
+- http://go.lambdaschool.com
 
 *FREE - english and français*
-[open classroom](https://openclassrooms.com/en/courses)
+- [open classroom](https://openclassrooms.com/en/courses)
 
 *Español*
-[codigo facilito](https://codigofacilito.com)
+- [codigo facilito](https://codigofacilito.com)
 
 *Português*
 cursos gratuitos:
 - [app cursos de graça](https://appcursosdegraca.com.br/categoria/tecnologia-da-informacao)
+
+*Paying - English
+- [Lynda](https://www.lynda.com/)
+- [teamtreehouse Tech degree](https://teamtreehouse.com/techdegree)
+
+
 
 ***
 
