@@ -12,7 +12,7 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 ### Courses Plataforms
 
-* Free - In English
+*Free - In English*
 Benefits and courses for free if you have GitHub Student account.
 - http://go.lambdaschool.com/
 - https://flatironschool.com/
