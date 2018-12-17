@@ -128,3 +128,8 @@ Cursos gratuitos
 *Português*
 - Joao Ribeiro - [PHP iniciante ao avançado](https://www.youtube.com/channel/UC6ZL0QLBNKBAOx6vjQXTIJA)
 
+***
+
+# Python
+- [challanges](https://github.com/hlpostman/challenges)
+
