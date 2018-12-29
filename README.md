@@ -33,6 +33,7 @@ cursos gratuitos:
 *Paying - English
 - [Lynda](https://www.lynda.com/)
 - [teamtreehouse Tech degree](https://teamtreehouse.com/techdegree)
+- [pluralsight](https://www.pluralsight.com)
 
 
 
