@@ -16,6 +16,7 @@ Usefull links to keep studying. Feel free to fork and contribute.
 Benefits and courses for free if you have GitHub Student account.
 - http://go.lambdaschool.com/
 - https://flatironschool.com/
+- [Grafikart.fr good youtube channel](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ)
 
 Computer Science Major and Data Science Major for free.
 - http://go.lambdaschool.com
