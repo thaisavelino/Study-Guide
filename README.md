@@ -94,6 +94,7 @@ cursos gratuitos:
 *English*
 - [Javascript30](https://javascript30.com/) do [Wes bos](https://wesbos.com/) 30 lesson in 30 days - Vanila JS. Good one!
 - [Free code camp](https://learn.freecodecamp.org/) A huge content for free: Responsive WebDesign; Javascript Algorithms And Data Structures; Front End Libraries; Data Visualization; Apis And Microservices; Information Security And Quality Assurance; and *Coding Interview Prep* (Thousands of hours of challenges).
+- [JS academy](https://www.jsecademy.com/lessons) Good tutorials and some exos of basic things nice for logics and understanding basics.
 
 *Português*
 - [origamid](https://www.origamid.com/) Vale a pena, mas é basico.
