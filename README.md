@@ -4,6 +4,11 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 ## General
 
+- VisuAlgo(VisuAlgo.net/en) - Visual resource to understand data structures and algorithms through animation.
+
+***
+## Courses
+
 ### 1 - Developer Roadmap
 [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) A visual guide of where do I need to go...
 
