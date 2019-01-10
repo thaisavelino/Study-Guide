@@ -6,12 +6,13 @@ Usefull links to keep studying. Feel free to fork and contribute.
 
 - [VisuAlgo](VisuAlgo.net/en) - Visual resource to understand data structures and algorithms through animation.
 
+### 1 - Developer Roadmap
+[Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) A visual guide of where do I need to go...
+
+
 ***
 
 # Courses
-
-### 1 - Developer Roadmap
-[Developer roadmap](https://github.com/kamranahmedse/developer-roadmap) A visual guide of where do I need to go...
 
 ### Training
 - [HackerRank](https://www.hackerrank.com/): Plataforma para resolver problemas com algoritmos em sua linguagem favorita. Curto bastante este site pois as vezes nos esquecemos de estudar algoritmos e já partimos direto para a linguagem e sua sintaxe. Após aprender o básico de JS, acredito que é uma boa pedida criar uma conta nesse site e começar a praticar algoritmos nele.
