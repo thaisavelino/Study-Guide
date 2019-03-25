@@ -74,6 +74,7 @@ cursos gratuitos:
 ### Github to follow
 
 - [woliveiras](https://github.com/woliveiras)
+- [Devtips](https://github.com/DevTips) - From Travis Nielsen - Google
 
 ### Career Guide
 
